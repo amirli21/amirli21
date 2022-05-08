@@ -1,9 +1,7 @@
 # Hi there, I'm Fazil Amirli!
 
 
-**amirli21/amirli21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**amirli21/amirli21** is a ✨ _special_ ✨ repository because its my first github repository for this account.
 
 - 🔭 I’m currently trying to find internship for summer..
 - 🌱 I’m currently learning Deep Learning which I really enjoy.
